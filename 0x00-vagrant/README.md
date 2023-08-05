@@ -1,1 +1,2 @@
-*Some Markdown* text
+uname with no option prints certain system information
+
